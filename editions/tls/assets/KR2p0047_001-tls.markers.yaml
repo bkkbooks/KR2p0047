@@ -25,6 +25,7 @@ markers:
   - {type: xml-element, offset: 41, content: '', id: KR2p0047_tls_001-bkkxmlele3, name: p, role: open, attrs: {source: 'SHANGBO.JIANDAHANBOHAN 4.18.2 (STRIPS 2, 8) JI XUSHENG 4: 74'}}
   - {type: page-break, offset: 41, content: '', id: KR2p0047_tls_001-2a}
   - {type: 'tls:seg', offset: 41, content: '', id: KR2p0047_tls_001-2a.1}
+  - {type: voice, offset: 41, length: 0, name: note, id: n1}
   - {type: 'tls:seg', offset: 44, content: '', id: KR2p0047_tls_001-2a.2}
   - {type: punctuation, offset: 47, content: ，, id: KR2p0047_tls_001-bkkpn9}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0047_tls_001-2a.3}
@@ -175,9 +176,11 @@ markers:
   - {type: punctuation, offset: 352, content: ), id: KR2p0047_tls_001-bkkpn72}
   - {type: punctuation, offset: 352, content: ，, id: KR2p0047_tls_001-bkkpn73}
   - {type: 'tls:seg', offset: 352, content: '', id: KR2p0047_tls_001-10a.5}
+  - {type: voice, offset: 352, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 356, content: (, id: KR2p0047_tls_001-bkkpn74}
   - {type: punctuation, offset: 356, content: '?', id: KR2p0047_tls_001-bkkpn75}
   - {type: punctuation, offset: 356, content: ), id: KR2p0047_tls_001-bkkpn76}
+  - {type: voice, offset: 356, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 357, content: '?', id: KR2p0047_tls_001-bkkpn77}
   - {type: xml-element, offset: 357, content: '', id: KR2p0047_tls_001-bkkxmlele20, name: p, role: close, attrs: {source: 'SHANGBO.JIANDAHANBOHAN 4.18.10 (STRIPS 23, 18) JI XUSHENG 4: 75'}}
   - {type: xml-element, offset: 357, content: '', id: KR2p0047_tls_001-bkkxmlele21, name: p, role: open, attrs: {source: 'SHANGBO.JIANDAHANBOHAN 4.18.11 (STRIPS 18, 17) JI XUSHENG 4: 75-76'}}
@@ -289,6 +292,7 @@ markers:
   - {type: punctuation, offset: 542, content: ), id: KR2p0047_tls_001-bkkpn126}
   - {type: punctuation, offset: 542, content: ，, id: KR2p0047_tls_001-bkkpn127}
   - {type: 'tls:seg', offset: 542, content: '', id: KR2p0047_tls_001-16a.4}
+  - {type: voice, offset: 542, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 549, content: ；, id: KR2p0047_tls_001-bkkpn128}
   - {type: 'tls:seg', offset: 549, content: '', id: KR2p0047_tls_001-16a.5}
   - {type: punctuation, offset: 551, content: 、, id: KR2p0047_tls_001-bkkpn129}
@@ -297,4 +301,4 @@ markers:
   - {type: punctuation, offset: 568, content: ”, id: KR2p0047_tls_001-bkkpn131}
   - {type: xml-element, offset: 568, content: '', id: KR2p0047_tls_001-bkkxmlele32, name: p, role: close, attrs: {source: 'SHANGBO.JIANDAHANBOHAN 4.18.16 (STRIPS 13, 15) JI XUSHENG 4: 76'}}
   back: []
-hash: sha256:edfec9108c38be4766e824c11d6c36f627ca507804b23f3b29567effc1874d9f
+hash: sha256:d8d9532be54d6f75992edcd4c657441225e7d0c1852c20dd602f201ead69d472
